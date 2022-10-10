@@ -1,15 +1,12 @@
 <h1 align="center">Hi There 👋 I'm Vrit Pipatpratuang or call me Ohm for short.</h1>
 <h3 align="center">The student at Thammasat University Bachelor of Science Program in Computer Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisohm&label=Profile%20views&color=0e75b6&style=flat" alt="thisohm" /> </p>
-
-
 
 <h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://www.facebook.com/vrit.pipapratuang.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="โอม'ม." height="30" width="40" /></a>
 <a href="https://instagram.com/this.ohm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this.ohm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCZRPN0dHa3rDSs3oVrkLxnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="this om" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
