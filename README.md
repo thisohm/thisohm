@@ -1,2 +1,2 @@
- Hi, I’m thisohm
+ Hi, I’m Ohm
 
