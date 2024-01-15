@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋 I'm Vrit Pipatpratuang or call me Ohm for short.</h1>
-<h3 align="center">The student at Thammasat University Bachelor of Science Program in Computer Science.</h3>
+<h3 align="center">Graduated at Thammasat University Bachelor of Science Program in Computer Science.</h3>
 
 ### 🌐 Socials:
 <p align="left">
